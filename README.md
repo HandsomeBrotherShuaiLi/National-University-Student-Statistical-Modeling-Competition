@@ -1,0 +1,1 @@
+ In this competition,some ml algorithms,such as logisticRegression,RidgeClassifier,SGD,DecisionTree and ANN（deep learning), were applied to predict the data  in the future,and the result can be seen in the paper.
